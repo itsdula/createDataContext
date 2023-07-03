@@ -2,7 +2,7 @@
   "name": "createdatacontext",
   "version": "1.0.0",
   "description": "a funciton that automates the creation of context and reducer",
-  "main": "index.js",
+  "main": "createDataContext.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
