@@ -1,0 +1,26 @@
+{
+  "name": "createdatacontext",
+  "version": "1.0.0",
+  "description": "a funciton that automates the creation of context and reducer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsdula/createDataContext.git"
+  },
+  "keywords": [
+    "react",
+    "\"state",
+    "management\"",
+    "reducer",
+    "context"
+  ],
+  "author": "Dula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsdula/createDataContext/issues"
+  },
+  "homepage": "https://github.com/itsdula/createDataContext#readme"
+}
