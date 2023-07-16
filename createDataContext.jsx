@@ -39,7 +39,7 @@ export default function createDataContext(actions, initialState, init) {
     }
 
     return (
-      <Context.Provider value={[state, { ...dispatchActions }]}>
+      <Context.Provider value={[state, dispatchActions]}>
         {children}
       </Context.Provider>
     );
